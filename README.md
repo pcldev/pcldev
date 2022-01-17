@@ -6,7 +6,7 @@
 - 💬 Ask me about anything ^^
 - 📫 How to reach me: <a href="https://www.facebook.com/longg.congg.75/">Công Longg</a>
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am very love cute cat 😺😺😺
+- ⚡ Fun fact: I very love cute cat 😺😺😺
 
 <br>
 
