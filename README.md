@@ -1,6 +1,8 @@
 ## Hi there 👉👈 , I'm Long - Front End Developer <img style="width:25px ;" src="https://image.flaticon.com/icons/png/512/2620/2620735.png">
 <br>
 
+![Typing SVG](https://codepen.io/reddevill2k2/full/VwPdGLd)  
+
 - 🔭 I’m currently working on Hanoi Open Uni
 - 🌱 I’m currently learning Reactjs Developer
 - 💬 Ask me about anything ^^
