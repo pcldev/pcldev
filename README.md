@@ -23,3 +23,6 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddevill2k2&layout=compact&theme=tokyonight&langs_count=6)
+![Github Status](https://github-readme-stats.vercel.app/api?username=reddevill2k2&show_icons=true&theme=tokyonight)
