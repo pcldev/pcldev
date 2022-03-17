@@ -1,7 +1,7 @@
 ## Hi there 👉👈 , I'm Long - Front End Developer <img style="width:25px ;" src="https://image.flaticon.com/icons/png/512/2620/2620735.png">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&vCenter=true&lines=I+am+Long+-+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=4000&vCenter=true&lines=I+am+Long+-+Frontend+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Hanoi Open Uni
 - 🌱 I’m currently learning Reactjs Developer
