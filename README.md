@@ -24,8 +24,8 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
 
-<p align="center">
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddevill2k2&layout=compact&theme=radical&langs_count=6)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddevill2k2&layout=compact&theme=radical&langs_count=6)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=reddevill2k2&show_icons=true&theme=radical)
-</p>
+
 
