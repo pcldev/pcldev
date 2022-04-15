@@ -1,7 +1,7 @@
 ## Hi there 👉👈 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=4000&vCenter=true&lines=I+am+Long+-+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=FF19C0&background=FF3CF700&center=true&vCenter=true&width=500&lines=I+am+Long+-+Frontend+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Hanoi Open Uni
 - 🌱 I’m currently learning Reactjs Developer
