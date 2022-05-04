@@ -1,7 +1,9 @@
 ## Hi there 👉👈 
-<br>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=FF19C0&background=FF3CF700&center=true&vCenter=true&width=500&lines=I+am+Long+-+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=29&color=FF19C0&background=FF3CF700&vCenter=true&width=550&lines=I+am+pcldev+-+Frontend+Developer)](https://git.io/typing-svg)
+
+
 
 - 🔭 I’m currently working on Hanoi Open Uni
 - 🌱 I’m currently learning Reactjs Developer
@@ -10,7 +12,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I very love cute cat 😺😺😺
 
-<br>
+<br/>
 
 ## Languages and Tools 🔍
 <div align="center">
@@ -24,9 +26,9 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
 
-<br>
+<br/>
 
-## Github status 🫥
+## Github status 💫
 ![Profile views](https://komarev.com/ghpvc/?username=pcldev)
 <br>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcldev&layout=compact&theme=radical&langs_count=6)
