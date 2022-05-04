@@ -27,8 +27,8 @@
 <br>
 
 ## Github status 🫥
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddevill2k2&layout=compact&theme=radical&langs_count=6)
-![Github Status](https://github-readme-stats.vercel.app/api?username=reddevill2k2&show_icons=true&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=pcldev)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcldev&layout=compact&theme=radical&langs_count=6)
+![Github Status](https://github-readme-stats.vercel.app/api?username=pcldev&show_icons=true&theme=radical)
 
 
