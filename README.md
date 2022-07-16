@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Hanoi Open Uni
 - 🌱 I’m currently learning Reactjs Developer
 - 💬 Ask me about anything ^^
-- 📫 How to reach me: <a href="https://www.facebook.com/longg.congg.75/">Công Longg</a>
+- 📫 How to reach me: <a href="https://www.facebook.com/phanconglong02/">Công Longg</a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I very love cute cat 😺😺😺
 
