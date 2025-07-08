@@ -1,15 +1,14 @@
 ## Hi there 👉👈 
 <br/>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=29&color=FF19C0&background=FF3CF700&vCenter=true&width=550&lines=I+am+pcldev+-+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=29&color=FF19C0&background=FF3CF700&vCenter=true&width=700&lines=I+am+Lisandro+Phan+-+Software+Engineer)](https://git.io/typing-svg)
 
 
 
 - 🔭 I’m currently working on BraveBits Company
 - 💬 Ask me about anything ^^
-- 📫 How to reach me: <a href="https://www.facebook.com/phanconglong02/">Công Long</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lisandro-phan-bb31aa236/">Lisandro Phan</a>
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I very love cute cat 😺😺😺
 
 <br/>
 
