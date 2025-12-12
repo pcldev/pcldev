@@ -1,4 +1,4 @@
-## Hi, I'm Lisandro Phan (Phan Công Long) - Tech lead at TailorKit 👉👈 
+## Hi, I'm Lisandro Phan (Phan Công Long) 👉👈 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=29&color=FF19C0&background=FF3CF700&vCenter=true&width=700&lines=I+am+Lisandro+Phan+-+Software+Engineer)](https://git.io/typing-svg)
